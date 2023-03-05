@@ -1,6 +1,6 @@
 import Link from "next/link";
-import styles from "./Notes.module.css";
 import CreateNote from './CreateNote';
+import styles from "./Notes.module.css"
 
 
 async function getNotes() {
